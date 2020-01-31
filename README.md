@@ -1,1 +1,1 @@
-# Backend Challenges boilerplate - package.json
+# Test Backend Challenges boilerplate - package.json
